@@ -1,0 +1,28 @@
+_repo: The-Dreadnought-of-the-Air_46117
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46117-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
+description: ''
+gutenberg_issued: '2014-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'Airships -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Dreadnought of the Air
+url: http://www.gutenberg.org/ebooks/46117
